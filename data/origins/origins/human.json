@@ -1,9 +1,0 @@
-{
-	"loading_priority": 10,
-	"powers": [
-		"origins:weak_arms"
-	],
-	"icon": "minecraft:skeleton_skull",
-	"order": 3,
-	"impact": 1
-}
