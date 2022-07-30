@@ -1,0 +1,12 @@
+ {
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:wooden_axe"
+    },
+    "addition": {
+        "item": "create:gold_sheet"
+    },
+    "result": {
+        "item": "minecraft:gold_axe"
+    }
+}
